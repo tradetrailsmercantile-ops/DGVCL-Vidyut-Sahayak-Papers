@@ -16,7 +16,7 @@ The first-pass search did not locate a DGVCL Electrical Assistant paper for 2017
 
 Important false-positive caught:
 - MaruGujarat's 2017 archive lists **MGVCL Vidyut Sahayak (Junior Engineer – Civil)** dated 05-03-2017. This is a different DISCOM and a different post, so it is excluded.
-- A YouTube result dated 10-06-2017 is for **GETCO Electrical Junior Engineer**, not DGVCL Electrical Assistant, so it is also excluded.
+- A YouTube result for **GETCO Electrical Junior Engineer**, held 10-06-2017, is not DGVCL Electrical Assistant and is excluded: https://www.youtube.com/watch?v=ICkPBy1PLDI
 
 Status: **NOT YET FOUND**. This is not proof that no exam took place.
 
