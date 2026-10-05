@@ -57,6 +57,19 @@ Written test: **19-03-2023**
 
 **Question paper: not yet recovered in the first-pass search.**
 
+## 2026
+
+**DGVCL Vidyut Sahayak (Electrical Assistant)**  
+Written exam: **04-10-2026**  
+Official publication / provisional key: **05-10-2026**
+
+- **Paper sets A/B/C/D:** found in the source PDF supplied for this research archive.
+- **Answer keys A/B/C/D:** provisional keys included in the same source PDF.
+- **Archive analysis:** [`DGVCL_2026-10-04_MASTER_ANALYSIS.md`](./DGVCL_2026-10-04_MASTER_ANALYSIS.md)
+- Source PDF SHA-256: `eac886ddcae3bb3cbb218980caa779911e78436135b1489ad0d86e3893c3d8c9`
+
+The source states that objections with supporting PDF evidence were accepted from **05-10-2026 to 07-10-2026, 6:00 PM**. The archive keeps the 04-10-2026 answer key as a **provisional snapshot** and should append any later final correction rather than silently replacing it.
+
 ## Excluded from the primary archive
 
 DGVCL **Vidyut Sahayak (Junior Engineer / JE)** is tracked only as an exclusion/cross-reference. It is not mixed with Electrical Assistant papers.
