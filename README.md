@@ -1,6 +1,6 @@
 # DGVCL Vidyut Sahayak (Electrical Assistant) Paper Archive
 
-This repository is a research archive for **Dakshin Gujarat Vij Company Limited (DGVCL) Vidyut Sahayak (Electrical Assistant)** written-exam papers and related answer keys from **2016 through 2025**.
+This repository is a research archive for **Dakshin Gujarat Vij Company Limited (DGVCL) Vidyut Sahayak (Electrical Assistant)** written-exam papers and related answer keys.
 
 ## Scope
 
@@ -22,28 +22,39 @@ A missing paper is recorded as **Not yet found**, not as proof that no paper exi
 
 ## Current research status
 
-The first research pass has identified DGVCL Electrical Assistant written exams on:
+DGVCL Electrical Assistant written exams currently recorded in the primary archive include:
 - 02-10-2016
 - 22-04-2018
 - 11-08-2019
 - 24-10-2021 (Paper Types A, B, C, D)
 - 19-03-2023 (Ex-Apprentice written test)
+- **04-10-2026 (Paper Sets A, B, C, D; provisional answer keys)**
 
-The 2021 exam is independently evidenced by links to DGVCL-hosted answer-key PDFs reported by a contemporaneous source.
+### 04-10-2026 paper update
+
+The 04-10-2026 paper has now been added to the public archive as a **paper-found / provisional-key-found** event. The source publication is dated 05-10-2026 and contains Sets A-D, 100 MCQs per set, plus provisional answer keys.
+
+- [2026 master analysis](./DGVCL_2026-10-04_MASTER_ANALYSIS.md)
+- [Paper links / provenance record](./PAPER_LINKS.md)
+- [Master index](./MASTER_INDEX.csv)
+
+The four sets are structurally the same underlying 100-question exam reordered across A-D; they should not be counted as 400 unique questions.
 
 ## Repository structure
 
 ```
-MASTER_INDEX.csv       # One row per exam event / paper set
-SOURCES.csv             # Source trail and verification evidence
-SEARCH_LOG.md           # Search queries and findings
-README.md               # Scope and rules
+MASTER_INDEX.csv                     # One row per exam event / paper set
+SOURCES.csv                          # Source trail and verification evidence
+PAPER_LINKS.md                       # Paper/source links and provenance notes
+DGVCL_2026-10-04_MASTER_ANALYSIS.md  # Full 04-10-2026 paper/key analysis
+SEARCH_LOG.md                        # Search queries and findings
+README.md                            # Scope and rules
 ```
 
 ## Important copyright note
 
-This archive will not assume that every third-party PDF can legally be redistributed. Where redistribution rights are unclear, the repository records the source and verification metadata rather than copying the PDF.
+This archive will not assume that every third-party PDF can legally be redistributed. Where redistribution rights are unclear, the repository records the source and verification metadata rather than copying the PDF. For the 04-10-2026 paper, the archive currently records the source provenance, SHA-256 hash, structural analysis and provisional answer-key transcription; it does not falsely claim that a binary PDF has been re-hosted.
 
 ## Research objective
 
-Find the maximum number of **genuine DGVCL Electrical Assistant papers from 2016-2025**, distinguish them from JE/JA and other DISCOM papers, detect multiple paper types/sets, and preserve a transparent source trail.
+Find the maximum number of **genuine DGVCL Electrical Assistant papers**, distinguish them from JE/JA and other DISCOM papers, detect multiple paper types/sets, and preserve a transparent source trail.
